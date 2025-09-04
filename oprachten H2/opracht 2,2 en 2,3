@@ -1,1 +1,4 @@
-
+size(400, 300);
+text("Text is cool",200, 150);
+text("me here to",100, 75);
+text("this is also cool",300, 250);
